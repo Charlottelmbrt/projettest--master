@@ -1,0 +1,103 @@
+h1 { 
+font-family: 'Codystar', cursive;
+ text-align: center;
+}
+
+
+h2,h3 {
+    font-family: 'Marvel', sans-serif;
+    color: #AFAFAF;
+  padding-left:30px;
+}
+    
+header {
+      padding-top:20px;
+    padding-bottom: 20px;
+        background-image: url(images/pattern.png);
+}
+header a {
+    rgba(255,255,255,0.5);
+    text-decoration: none;
+    color:black;
+    font-size:25px;
+    font-family: 'Marvel', sans-serif;
+    }
+
+header a:hover {
+    background-color: white;
+}
+header li {
+display: inline-block;
+ width: 22%;
+text-align: center;
+
+        }
+    
+
+body {
+    margin:0px;
+    
+
+}
+ul {
+    margin:center;
+
+}
+
+li{
+    list-style: none;
+}
+body {
+font-family: 'Marvel', sans-serif;
+}
+
+.experience 
+{
+  max-width: 700px;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom: 40px;
+    padding:30px;
+    background-color:#FFFFFF;
+    box-shadow: 0px 0px 40px #ccc;
+}
+
+
+.contact {
+    max-width:500px;
+    margin:auto;
+    margin-top:50px;
+    padding:20px;
+    background-color:#FFFFFF;
+    box-shadow: 0px 0px 13px #ccc;
+    text-align: center;
+    font-size: 20px;
+    color:#AFAFAF;
+
+}
+.portfolio {
+    margin-bottom: 2000px;
+    height: 2000px;
+    width: 500px;
+    border-bottom: 300px;
+}
+footer {
+    position:fixed;
+    width:100%;
+    bottom:0;
+   background-color: #AFAFAF;
+    text-align: center;
+    padding-top: 1px;
+}
+
+footer li {
+    display: inline-block;
+    width:3%;
+
+}
+
+.pres {
+    border-radius: 30px;
+    padding: auto;
+}
+
